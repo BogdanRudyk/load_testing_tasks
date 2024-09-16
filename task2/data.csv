@@ -1,0 +1,4 @@
+login1,password1,login2,password2,message,expected_response
+user1@yandex.ru,pass1,user2@yandex.ru,pass2,машина,техника
+user1@yandex.ru,pass1,user2@yandex.ru,pass2,лев,животное
+user1@yandex.ru,pass1,user2@yandex.ru,pass2,воробей,птица
